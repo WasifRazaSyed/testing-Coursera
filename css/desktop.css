@@ -12,7 +12,7 @@
         .ul li
         {
             font-size: 20px;
-            list-style-image: url("icons8-features-list-24.png");
+            list-style-image: url('icons8-features-list-24.png');
             list-style-position: inside;
             font-weight: bolder;
         }
