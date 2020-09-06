@@ -1,0 +1,63 @@
+@media screen and (min-width: 401px) and (max-width: 750px){
+    .body 
+        {
+            background-image: url(file:///D:/1%20Documents/Zip%206/lake_qadisiyah_iraq_earth_view_from_space-wallpaper-600x800.jpg);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-size: cover;
+            cursor: auto;
+            color: black;
+        }
+        .ul li
+        {
+            font-size: 20px;
+            list-style-image: url(file:///D:/1%20Documents/Zip%205/icons8-features-list-24.png);
+            list-style-position: inside;
+            font-weight: bolder;
+        }
+        .ol li
+        {
+            font-size: 25px;
+            list-style-type: disc;
+            font-weight: bolder;
+        }
+        ol img
+        {
+            width: 30%;
+        }
+        ul + hr {
+            display: none;
+        }
+        p 
+        {
+            font-size: 30px;
+        }
+        p#id
+        {
+            font-style: italic;
+            font-weight: bold;
+            padding-top: 5% ;
+            font-size: x-large;
+        }
+        p span
+        {
+            font-style: italic;
+        }
+        p span:last-child
+        {
+            text-decoration-line: underline;
+        } 
+        .special
+        {
+            font-style: normal;
+            color: red;
+        }
+        .dish
+        {
+            display: block;
+            max-width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+            height: auto;
+        }
+}
