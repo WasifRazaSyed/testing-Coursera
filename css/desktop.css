@@ -2,7 +2,7 @@
 {
     .body 
         {
-            background-image: url(file:///D:/1%20Documents/Zip%206/Background_ChoppingBoard21.jpg);
+            background-image: url(back\Background_ChoppingBoard21.jpg);
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: cover;
@@ -12,7 +12,7 @@
         .ul li
         {
             font-size: 20px;
-            list-style-image: url(file:///D:/1%20Documents/Zip%205/icons8-features-list-24.png);
+            list-style-image: url(back\icons8-features-list-24.png);
             list-style-position: inside;
             font-weight: bolder;
         }
